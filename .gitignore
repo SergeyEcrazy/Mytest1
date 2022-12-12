@@ -1,0 +1,3 @@
+# Игнорим Drawio и Readme файлы
+*.drawio
+*.md
